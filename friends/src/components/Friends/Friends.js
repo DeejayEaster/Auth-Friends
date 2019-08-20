@@ -1,0 +1,1 @@
+// here you  need to call to the server and get  the info. Log it out to see what it looks like. You will also need to create a card for the users and then map over the data applying the card to each friend item.
