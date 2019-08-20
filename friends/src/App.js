@@ -9,7 +9,6 @@ import Friends from "./components/Friends/Friends";
 function App() {
   return (
     <div className="App">
-      <h1>Here we go</h1>
       <BrowserRouter>
         <Switch>
           <Route exact path="/" component={Login} />
